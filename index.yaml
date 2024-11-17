@@ -3,7 +3,17 @@ entries:
   my-fastapi:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-17T15:09:53.008474507Z"
+    created: "2024-11-17T15:13:09.192922321Z"
+    description: A Helm chart for Kubernetes
+    digest: b6e792f14775e5d21b7d4e83f28cc2a759bfa1101233b6b0108d7e4d39fe0b90
+    name: my-fastapi
+    type: application
+    urls:
+    - my-fastapi-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-17T15:13:09.192593951Z"
     description: A Helm chart for Kubernetes
     digest: a13ea0951d68c9a84da7370e6b180ad1e6c2dd4ff8f64e43e3e973ab33cad33a
     name: my-fastapi
@@ -11,4 +21,4 @@ entries:
     urls:
     - my-fastapi-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-17T15:09:53.007902264Z"
+generated: "2024-11-17T15:13:09.192161884Z"
